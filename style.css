@@ -1,0 +1,23 @@
+body {
+    background-color: #e678ca;
+    margin: o;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.inicio{
+    display:flex;
+    height:100vh;
+}
+.foto{
+    flex:1;
+    background-color: rgb(27, 25, 26);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.foto img{
+    width: 300px;
+    height:auto;
+    border-radius: 8px;
+    
+
+}
