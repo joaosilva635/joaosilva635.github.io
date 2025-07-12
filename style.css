@@ -18,7 +18,7 @@ body {
 }
 
 .foto img {
-    width: 300px;
+    width: 400px;
     height: auto;
     border-radius: 8px;
 
@@ -46,4 +46,16 @@ body {
 .infos p {
     font-size: 18px;
     margin: 10px 0;
+}
+.social{
+    display:flex;
+flex-wrap:wrap;
+gap: 1.4rem;
+margin-top: 1.4rem;
+}
+.social a {
+    display: grid;
+    place-items: center;
+    text-decoration: none;
+    color:antiquewhite
 }
