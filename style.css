@@ -64,11 +64,15 @@ margin-top: 1.4rem;
     text-align: center;
     
 }
-.infos img
-{
-     width: 400px;
-     height: auto;
-    border-radius: 8px;
+.infos .eu
+{display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.eu img{
+    height: 400px;
+    width: 400px;
     
 }
 .social a:hover{
