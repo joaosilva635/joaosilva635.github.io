@@ -57,5 +57,10 @@ margin-top: 1.4rem;
     display: grid;
     place-items: center;
     text-decoration: none;
-    color:antiquewhite
+    color:antiquewhite;
+    border:1.6rem antiquewhite;
+    font-size: 1.5rem;
+    padding:0.39;
+    text-align: center;
+    
 }
